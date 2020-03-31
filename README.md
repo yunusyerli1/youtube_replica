@@ -17,7 +17,7 @@
 
 
 
-In this project, I worked on my season website using react. For the design I have used Semantic UI's designs. You can see the web-site. (https://semantic-ui.com/) I tried to make a website like Google on picture side. When you enter desired search term in the text field and press Enter, pictures related to search term will come from https://unsplash.com/ via API. 
+In this project, I worked on youtube replica website using react. For the design I have used Semantic UI's designs. You can see the web-site. (https://semantic-ui.com/) I tried to make a website like Youtube. When you enter desired search term in the text field and press Enter, videos related to search term will come from Youtube API. 
 
 
 
@@ -30,20 +30,20 @@ In this project, I worked on my season website using react. For the design I hav
 - Create-React-App
 - SCSS.
 
-### ✨ [Live Demo](https://searh-pic-yerli.herokuapp.com/)
+### ✨ [Live Demo](https://youtube-repliaca-yerli.herokuapp.com/)
 
 ## Usage
 
 > Clone the repository to your local machine
 
 ```sh
-$ git clone https://github.com/Yunusyerli1/pics-app.git
+$ git clone https://github.com/Yunusyerli1/youtube_replica.git
 ```
 
-> cd into the directory, install dependencies, build and start
+> cd into the directory, install dependencies, build and start 
 
 ```sh
-$ cd pics
+$ cd videos
 $ npm run start
 ```
 
@@ -58,9 +58,9 @@ $ npm run start
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Yunusyerli1/pics-app/issues).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Yunusyerli1/youtube_replica/issues).
 
-1. Fork it (https://github.com/Yunusyerli1/pics-app.git/fork)
+1. Fork it (https://github.com/Yunusyerli1/youtube_replica.git/fork)
 2. Create your working branch (git checkout -b [choose-a-name])
 3. Commit your changes (git commit -am 'what this commit will fix/add/improve')
 4. Push to the branch (git push origin [chosen-name])
