@@ -4,7 +4,7 @@
   <a hraef="https://github.com/yunusyerli1/youtube_replica/edit/master/README.md" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
-  <a href="https://github.com/yunusyerli1/seasons/blob/master/seasons" target="_blank">
+  <a href="https://github.com/yunusyerli1/youtube_replica" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
   <a href="https://twitter.com/cmk_y" target="_blank">
