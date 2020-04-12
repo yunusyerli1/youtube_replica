@@ -32,7 +32,7 @@ In this project, I worked on youtube replica website using react. For the design
 - Create-React-App
 - SCSS.
 
-### ✨ [Live Demo](https://streamyappyerli.herokuapp.com//)
+### ✨ [Live Demo](https://youtube-repliaca-yerli.herokuapp.com/)
 
 ## Usage
 
