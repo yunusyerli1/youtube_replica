@@ -10,6 +10,9 @@
   <a href="https://twitter.com/cmk_y" target="_blank">
     <img alt="Twitter: cmk_y" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fcmk_y" />
   </a>
+  <a href="https://github.com/yunusyerli1/youtube_replica" target="_blank">
+    <img alt="Web Site" src="https://res.cloudinary.com/yerli/image/upload/v1586696704/Project/youtube-replica_prk9hd.jpg" />
+  </a>
 </p>
 
 
@@ -25,7 +28,6 @@ In this project, I worked on youtube replica website using react. For the design
 
 - React
 - JavaScript (ES6)
-- Node.js
 - Npm
 - Create-React-App
 - SCSS.
